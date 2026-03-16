@@ -1,0 +1,3 @@
+101 Ram Kirtipur 9841000001
+102 Sita Kathmandu 9851000002
+103 Hari Kirtipur 9841000003
